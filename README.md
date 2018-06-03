@@ -12,3 +12,5 @@ JQuery
 Bootstrap
 Html5 API (LocalStorage)
 Прямые руки :-)
+
+Результат работы - https://prototype1992.github.io/modal-timeout/
